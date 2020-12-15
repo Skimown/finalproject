@@ -1,0 +1,4 @@
+haversine==2.3.0
+streamlit==0.72.0
+pandas==1.1.5
+matplotlib==3.3.3
